@@ -1,4 +1,4 @@
-# Final Project 2015: S-HITMAN
+# Final Project 2015: SUPER-HITMAN
 # by: Michal Jez and Shadman Hassan
 
 This is my Grade 11 Computer Science Final Project. My partner and I created a top down shooter in
