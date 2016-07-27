@@ -1,0 +1,11 @@
+STATS INFORMATION
+
+HEALTH/UNIT
+Peaceful AI - 20
+
+
+DAMAGE/HIT/BULLET
+M16 - 1*10
+Shotgun - 5*10
+Pistol - 1*20
+Dual Pistols - 2*20

@@ -1,0 +1,18 @@
+SHOPPING DATA
+
+Guns:
+- M16: $2 000
+- Pistol: $600
+- Shotgun: $3 000
+- OP Weapon: $50 000 [?]
+
+Bullets:
+- Standard bullets (20 pack): $50
+- Reflect Once Bullets (10 pack): $200
+- Curve towards enemy bullets (10 pack): $500
+
+Frisbee: $1 000
+
+Grenade: $75 [?]
+
+10% Health Regeneration: $300 [?]
