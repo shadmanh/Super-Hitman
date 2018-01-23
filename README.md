@@ -1,6 +1,6 @@
 # Final Project 2015: SUPER-HITMAN
 
-# by: Michal Jez and Shadman Hassan
+## by: Michal Jez and Shadman Hassan
 
 This is my Grade 11 Computer Science Final Project. My partner and I created a top down shooter in
 Python. Super Hitman is a top down shooter where the objective is to kill all enemies onscreen per 
