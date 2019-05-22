@@ -2,6 +2,8 @@
 
 ## by: Michal Jez and Shadman Hassan
 
+Gamplay video can be found at: https://youtu.be/udoH_CQG5jI
+
 This is my Grade 11 Computer Science Final Project. My partner and I created a top down shooter in
 Python. Super Hitman is a top down shooter where the objective is to kill all enemies onscreen per 
 wave. He can move with WASD controls and can use primary and secondary weapons with mouse buttons. 
