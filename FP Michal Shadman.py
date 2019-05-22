@@ -2691,11 +2691,11 @@ def game():
             bSpeed -= 1
         if para==False and len(shooterAIList)==1 and wave.enemiesLeft==1:
             toggleSlowMo(screen,player,wave,shooterAIList[0],mx,my)
-        if para: #slows down speeds for bullet time
-            c,bSpeed = paraMaker(c,slowMoTime,defaultBSpeed,minSpeed)[0], paraMaker(c,slowMoTime,defaultBSpeed,minSpeed)[1]
-            playerSpeed = max(1,bSpeed//4)
-            sprSpeed = min(0.5,bSpeed/40)
-            reloading = min(0.1,sprSpeed//5)
+        #if para: #slows down speeds for bullet time
+            #3c,bSpeed = paraMaker(c,slowMoTime,defaultBSpeed,minSpeed)[0], paraMaker(c,slowMoTime,defaultBSpeed,minSpeed)[1]
+            #playerSpeed = max(1,bSpeed//4)
+            #sprSpeed = min(0.5,bSpeed/40)
+            #reloading = min(0.1,sprSpeed//5)
         if c == -1:
             para = False
 
