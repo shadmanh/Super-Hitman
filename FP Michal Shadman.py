@@ -3,7 +3,7 @@ from math import *
 from random import *
 import glob
 
-#Final Project 2015: S-HITMAN
+#Final Project 2015: Super-HITMAN
 #by: Michal Jez and Shadman Hassan
 #SUPER-Hitman is a top down shooter where the objective is to kill all enemies onscreen
 #per wave. He can move with WASD controls and can use primary and secondary weapons with mouse buttons.
