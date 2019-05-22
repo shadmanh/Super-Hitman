@@ -11,7 +11,9 @@ such as homing and reflecting bullets. The shop can be entered at any time. The 
 to survive the longest. Score is accumulated per kill, and text prompts show up for special kills (E.g. knife,
 reflect kills). To exit any part of the game, close the game window. 
 
-You need to have python and pygame installed in order to run the game. Run FP Michal Shadman.py to play the game.
+You need to have python and pygame (both of which are the SAME version) installed in order to run the game. i was able to run it successfully with Python 2.7.16 32 bit and Pygame 2.7 at https://www.python.org/downloads/release/python-2716/ and http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi.
+
+Run FP Michal Shadman.py to play the game.
 
 All music included is for entertainment purposes only and are not used to make any profit.
 
